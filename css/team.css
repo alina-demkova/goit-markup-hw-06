@@ -3,7 +3,7 @@
 .team {
  background-color: #f4f4fd;
  padding-top: 96px;
- padding-bottom: 48px;
+ padding-bottom: 96px;
 }
 
 .team-title {
@@ -108,5 +108,4 @@
       justify-content: center;
     }
   }
-
 

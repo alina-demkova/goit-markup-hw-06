@@ -53,7 +53,7 @@
     width: calc((100% - 24px) / 2);
   }
   .features-list {
-    gap: 24px;
+    gap: 72px 24px;
   }
   .features-subtitle {
     text-align: left;
@@ -101,5 +101,4 @@
       font-weight: 400;
 }
 }
-
 

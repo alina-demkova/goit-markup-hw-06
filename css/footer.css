@@ -30,6 +30,7 @@
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+  text-align: left;
 }
 .container-footer {
   display: flex;
@@ -180,12 +181,11 @@
     margin-right: 120px;
   }
   .footer-soc-media {
-    margin-right: 80px;
+    margin-right: 120px;
   }
   .footer-element {
     margin-left: auto;
   }
   
 }
-
 
