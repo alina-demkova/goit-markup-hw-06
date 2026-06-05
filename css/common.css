@@ -43,7 +43,8 @@ button {
   cursor: pointer;
 }
 
-.visually-hidden {
+.visually-hidden,
+.sr-only {
   position: absolute;
   white-space: nowrap;
   width: 1px;
@@ -79,6 +80,5 @@ button {
     padding: 0 15px;
   }
 }
-
 
 
