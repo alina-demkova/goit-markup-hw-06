@@ -6,7 +6,8 @@
   flex-wrap: wrap;
   gap: 72px;
 }
-.features {padding-top: 96px;
+.features {
+  padding-top: 96px;
   padding-bottom: 96px;
 }
 .futures-icons {
@@ -19,7 +20,6 @@
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
 }
-
 
 .features-subtitle {
   font-weight: 700;
@@ -37,7 +37,6 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-
 
 @media screen and (min-width: 768px) {
   .container {
@@ -60,14 +59,13 @@
   }
 }
 
-
 @media screen and (min-width: 1158px) {
   .container {
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
   }
-  
+
   .features {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -90,15 +88,14 @@
   }
 
   .features-item {
-    width: calc((100% - 72px) / 4);
+    width: 100%;
   }
   .features-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
   }
-    .features-item-text {
-      font-weight: 400;
+  .features-item-text {
+    font-weight: 400;
+  }
 }
-}
-
