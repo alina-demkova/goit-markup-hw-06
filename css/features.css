@@ -10,6 +10,9 @@
   padding-top: 96px;
   padding-bottom: 96px;
 }
+.features-item {
+  width: 100%;
+}
 .futures-icons {
   display: none;
   align-items: center;
