@@ -69,7 +69,7 @@
     max-width: 496px;
     font-size: 56px;
     line-height: 1.07;
-    margin-bottom: 48px;
+    margin-bottom: 36px;
   }
 }
 
@@ -89,6 +89,9 @@
     background-image:
       linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
       url(../images/hero-desktop.jpg);
+  }
+  .hero-title {
+    margin-bottom: 48px;
   }
 }
 

@@ -88,7 +88,7 @@
   }
 
   .features-item {
-    width: 100%;
+    width: calc((100% - 72px) / 4);
   }
   .features-subtitle {
     font-weight: 500;
